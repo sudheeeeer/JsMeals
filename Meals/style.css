@@ -1,0 +1,36 @@
+img{
+    border-radius: 5px !important;
+    
+}
+.col-md-3{
+    margin: 30px !important;
+}
+p{
+    font-weight: bold;
+    font-size: 100%;
+}
+#navbar{
+    background-color: black;
+}
+li{
+    color: white;
+    list-style-type: none;
+    display: inline;
+    margin-left:40px ;
+
+}
+#elements{
+    text-align: center;
+    padding:10px;
+
+}
+#title{
+    font-size: 30px;
+}
+#footer{
+    background-color: brown;
+    color: white;
+    text-align: center;
+    font-weight: bolder;
+    padding: 10px;
+}
